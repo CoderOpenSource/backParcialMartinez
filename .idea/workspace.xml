@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="018f3ad3-8e17-42c7-8dcc-597b19758475" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/examen2/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/examen2/config/SecurityConfig.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="examen2" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2hZLkrUFmL5dPdD0vd1auJPG10z" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.Build examen2.executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.Examen2Application.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/aliss/Downloads/examen2&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\aliss\IdeaProjects\examen2\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Examen2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="examen2.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.examen2.Examen2Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="018f3ad3-8e17-42c7-8dcc-597b19758475" name="Changes" comment="" />
+      <created>1717796798848</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717796798848</updated>
+      <workItem from="1717796799861" duration="2190000" />
+      <workItem from="1717858717095" duration="14533000" />
+      <workItem from="1717874329237" duration="15322000" />
+      <workItem from="1717944577010" duration="3236000" />
+      <workItem from="1717956049810" duration="4415000" />
+      <workItem from="1717977126104" duration="545000" />
+      <workItem from="1718134853446" duration="11083000" />
+      <workItem from="1718157191292" duration="5451000" />
+      <workItem from="1718274030577" duration="3828000" />
+      <workItem from="1718289641315" duration="614000" />
+      <workItem from="1718378190649" duration="2539000" />
+      <workItem from="1718390128294" duration="16669000" />
+      <workItem from="1718419381279" duration="6547000" />
+      <workItem from="1718447778059" duration="3432000" />
+      <workItem from="1718458905515" duration="23193000" />
+      <workItem from="1718503611986" duration="13761000" />
+      <workItem from="1718541208624" duration="25654000" />
+      <workItem from="1718583361888" duration="9529000" />
+      <workItem from="1718593433303" duration="3110000" />
+      <workItem from="1718633117096" duration="2130000" />
+      <workItem from="1718635414280" duration="7131000" />
+      <workItem from="1718648608292" duration="4995000" />
+      <workItem from="1718678983876" duration="136000" />
+      <workItem from="1718680707253" duration="1172000" />
+      <workItem from="1718689339434" duration="2459000" />
+      <workItem from="1718711644474" duration="758000" />
+      <workItem from="1718713140371" duration="931000" />
+      <workItem from="1718715529852" duration="426000" />
+      <workItem from="1718763870238" duration="4888000" />
+      <workItem from="1718772146199" duration="143000" />
+      <workItem from="1718886222571" duration="271000" />
+      <workItem from="1718886622461" duration="108000" />
+      <workItem from="1720462068920" duration="863000" />
+      <workItem from="1721766617496" duration="5629000" />
+      <workItem from="1721784289897" duration="4738000" />
+      <workItem from="1721833157007" duration="14578000" />
+      <workItem from="1721915828900" duration="4704000" />
+      <workItem from="1721922964363" duration="15816000" />
+      <workItem from="1722047560144" duration="369000" />
+      <workItem from="1722089130562" duration="13757000" />
+      <workItem from="1722122393298" duration="1361000" />
+      <workItem from="1722189614704" duration="6701000" />
+      <workItem from="1722210877051" duration="3288000" />
+      <workItem from="1722215506275" duration="3117000" />
+      <workItem from="1722332849489" duration="633000" />
+      <workItem from="1724468733657" duration="17000" />
+      <workItem from="1724468817406" duration="480000" />
+      <workItem from="1725158641783" duration="376000" />
+      <workItem from="1725401412318" duration="18000" />
+      <workItem from="1725467829587" duration="7673000" />
+      <workItem from="1725485735381" duration="583000" />
+      <workItem from="1725493150126" duration="105000" />
+      <workItem from="1725546954425" duration="2855000" />
+      <workItem from="1725550319077" duration="1148000" />
+      <workItem from="1725576694715" duration="694000" />
+      <workItem from="1725616550278" duration="343000" />
+      <workItem from="1725647201675" duration="5839000" />
+      <workItem from="1725714227691" duration="3007000" />
+      <workItem from="1725749708244" duration="1241000" />
+      <workItem from="1726072628598" duration="11000" />
+      <workItem from="1726666780503" duration="1801000" />
+      <workItem from="1726937090706" duration="369000" />
+      <workItem from="1727293954537" duration="407000" />
+      <workItem from="1727294427789" duration="1656000" />
+      <workItem from="1727297815454" duration="534000" />
+      <workItem from="1727319011785" duration="16000" />
+      <workItem from="1727707082917" duration="2471000" />
+      <workItem from="1727824407212" duration="83000" />
+      <workItem from="1729171705560" duration="31000" />
+      <workItem from="1729716661014" duration="5075000" />
+      <workItem from="1729980542310" duration="802000" />
+      <workItem from="1731378685795" duration="40000" />
+      <workItem from="1731422405230" duration="8002000" />
+      <workItem from="1731583258052" duration="8494000" />
+      <workItem from="1731596633661" duration="8078000" />
+      <workItem from="1731609914544" duration="15161000" />
+      <workItem from="1731661448543" duration="7034000" />
+      <workItem from="1731675126717" duration="22591000" />
+      <workItem from="1731703514005" duration="2235000" />
+      <workItem from="1731762775033" duration="29812000" />
+      <workItem from="1731839253625" duration="1515000" />
+      <workItem from="1731852994552" duration="19664000" />
+      <workItem from="1731890279035" duration="16036000" />
+      <workItem from="1731935383465" duration="11358000" />
+      <workItem from="1731948226460" duration="101000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

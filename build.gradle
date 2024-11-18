@@ -1,0 +1,69 @@
+plugins {
+	id 'java'
+	id 'org.springframework.boot' version '3.2.5'
+	id 'io.spring.dependency-management' version '1.1.4'
+}
+
+group = 'com.example'
+version = '0.0.1-SNAPSHOT'
+
+java {
+	sourceCompatibility = '17'
+}
+
+repositories {
+	mavenCentral()
+}
+dependencies {
+	implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
+	implementation 'org.springframework.boot:spring-boot-starter-security'
+	implementation 'org.springframework.boot:spring-boot-starter-web'
+	implementation 'com.fasterxml.jackson.core:jackson-databind:2.14.1'  // Versión actualizada
+	implementation 'com.fasterxml.jackson.core:jackson-annotations:2.14.1'
+	implementation 'com.fasterxml.jackson.core:jackson-core:2.14.1'
+	developmentOnly 'org.springframework.boot:spring-boot-devtools'
+	runtimeOnly 'org.postgresql:postgresql'
+	testImplementation 'org.springframework.boot:spring-boot-starter-test'
+	testImplementation 'org.springframework.security:spring-security-test'
+	testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
+	implementation 'io.jsonwebtoken:jjwt:0.9.1'
+	implementation 'jakarta.servlet:jakarta.servlet-api:5.0.0'
+	implementation 'org.springframework.boot:spring-boot-starter-validation'
+	implementation 'com.github.javafaker:javafaker:1.0.2'
+	implementation 'org.yaml:snakeyaml:1.33' // Usa una versión conocida y estable
+	// iText para generar PDFs (versión estable)
+	implementation 'com.itextpdf:kernel:7.1.17'
+	implementation 'com.itextpdf:layout:7.1.17'
+	implementation 'com.itextpdf:io:7.1.17'
+
+	implementation 'com.google.firebase:firebase-admin:9.1.1'
+
+	//api de cloudinary
+	implementation 'com.cloudinary:cloudinary-http44:1.29.0'
+
+	// Dependencias para javax.xml.bind.DatatypeConverter
+	implementation 'javax.xml.bind:jaxb-api:2.3.1'
+	implementation 'org.glassfish.jaxb:jaxb-runtime:2.3.1'
+	// Apache POI para generar archivos Excel
+	implementation 'org.apache.poi:poi:5.2.3'
+	implementation 'org.apache.poi:poi-ooxml:5.2.3'
+	// Dependencias para javax.xml.bind.DatatypeConverter
+	implementation 'javax.xml.bind:jaxb-api:2.3.1'
+	implementation 'org.glassfish.jaxb:jaxb-runtime:2.3.1'
+
+	// Para envío de correos
+	implementation 'org.springframework.boot:spring-boot-starter-mail'
+
+	implementation 'org.springframework.boot:spring-boot-starter-web'
+	implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
+	implementation 'org.springframework.boot:spring-boot-starter-validation'
+	implementation 'org.springframework.boot:spring-boot-starter-security' // si estás usando Spring Security
+	runtimeOnly 'org.postgresql:postgresql' // o cualquier otra base de datos que estés usando
+	implementation 'commons-fileupload:commons-fileupload:1.4' //
+	testImplementation 'org.springframework.boot:spring-boot-starter-test'
+}
+
+
+tasks.named('test') {
+	useJUnitPlatform()
+}
